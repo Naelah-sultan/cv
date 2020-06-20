@@ -1,0 +1,31 @@
+h1{
+  color: #eb6383;
+font-size:24px;
+font-family:cursive;
+}
+
+h3{
+  color: #63b7af;
+  font-size:24px;
+  font-family:cursive;
+
+}
+
+body{
+  background-color:#f5f5f5;
+
+
+}
+
+
+
+hr{
+
+background-color:#f4f7c5;
+border-style:none;
+border-top-style:dotted;
+border-color:#d291bc;
+border-width: 10px;
+width:10%;
+
+}
